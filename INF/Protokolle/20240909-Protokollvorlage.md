@@ -6,8 +6,8 @@ Datum: 2024-09-09
 AbgabeErledigt: false
 ---
 # Angabe
-https://www.eduvidual.at/mod/assign/view.php?id=6459788
-Deadline: Mittwoch, 11. September 2024, 16:25
+- https://www.eduvidual.at/mod/assign/view.php?id=6459788
+- Deadline: Mittwoch, 11. September 2024, 16:25
 ## Zusammengefasst
 - keine weitere Angabe
 ## Ziele

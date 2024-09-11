@@ -6,8 +6,8 @@ Datum: yyyy-mm-dd
 AbgabeErledigt: false
 ---
 # Angabe
-link zur Angabe
-Deadline: dddd, dd.mm.yyyy
+- link zur Angabe
+- Deadline: dddd, dd.mm.yyyy
 ## Zusammengefasst
 ## Ziele
 - Ziel 1

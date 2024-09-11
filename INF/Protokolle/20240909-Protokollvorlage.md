@@ -9,7 +9,7 @@ AbgabeErledigt: false
 - https://www.eduvidual.at/mod/assign/view.php?id=6459788
 - Deadline: Mittwoch, 11. September 2024, 16:25
 ## Zusammengefasst
-- keine weitere Angabe
+- Erstelle für die erste JAVA Übung eine README.md für gitHub
 ## Ziele
 - Eine Readme.md Datei (als Vorlage) erstellen 
 	- kann für weitere Abgaben benutzt werden.
